@@ -80,7 +80,7 @@ async function streamWeatherAgent(
     temperature: 0.5,
     topP: 1,
     runtimeContext: {},
-    threadId: Vu4f2122023,
+    threadId: 2,
     resourceId: "weatherAgent",
   };
 
